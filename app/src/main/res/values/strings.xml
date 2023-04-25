@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">My First App</string>
+    <string name="message">Welcome to Android</string>
+    <string name="button2">Button 2</string>
+    <string name="button1">Button 1</string>
+    <string name="largeText">Large Text</string>
+
+    <color name="pink">#e91e63</color>
+
+
+
 </resources>
+
